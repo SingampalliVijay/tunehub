@@ -1,0 +1,21 @@
+body{
+	background-color: rgb(255, 255, 255);
+}
+.div1{
+    background-color: rgb(255, 255, 255);
+    height: 200px;
+    width: 200px;
+    border: solid 2px #373737;
+    margin:auto;
+    padding:10px;
+    
+}
+.div2{
+	text-align:center;
+    height: 50px;
+    width: 80px;
+    border: solid 1px black;
+    background-color:#c0c0c0;
+    padding:10px;
+    margin:auto;
+}
